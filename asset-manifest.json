@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saving-data-project/static/css/main.fc3cadc2.css",
+    "main.js": "/saving-data-project/static/js/main.64ee7717.js",
+    "index.html": "/saving-data-project/index.html",
+    "main.fc3cadc2.css.map": "/saving-data-project/static/css/main.fc3cadc2.css.map",
+    "main.64ee7717.js.map": "/saving-data-project/static/js/main.64ee7717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc3cadc2.css",
+    "static/js/main.64ee7717.js"
+  ]
+}
